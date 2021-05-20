@@ -1,10 +1,10 @@
 ---
-title: "AWS Modernization Workshop"
+title: "CloudBees Feature Management Workshop"
 chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop
+# CloudBees Feature Management Workshop
 
 ### Welcome
 
