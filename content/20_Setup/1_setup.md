@@ -1,5 +1,5 @@
 ---
-title: "Pre-Lab Set-Up"
+title: "Lab Set-Up"
 chapter: false
 weight: 1
 --- 
@@ -18,7 +18,7 @@ Feel free to use an existing GitHub.com account or create a new one:
 
 We highly recommend creating a new GitHub Organization for the CloudBees Feature Management Workshop. We will be using a GitHub App based credential to enable authentication and authorization between your GitHub.com Organization for the workshop and [CloudBees CI](https://docs.beescloud.com/docs/cloudbees-ci/latest/) for building and deploying the `microblog-frontend` application.
 1. Ensure that you are logged into GitHub.com and then navigate to this [link to create a new (and free) GitHub Organization](https://github.com/account/organizations/new?coupon=&plan=team_free). 
-2. Enter a unique ***Organization account name***, a valid ***Contact email***, select **My personal account** for ***This organization belongs to*** and then click on the **Next** button. ![GitHub Org Set up](github-org-set-up.png?width=40pc) 
+2. Enter a unique ***Organization account name***, a valid ***Contact email***, select **My personal account** for ***This organization belongs to*** and then click on the **Next** button. ![GitHub Org Set up](./images/github-org-set-up.png?width=40pc) 
 3. On the **Welcome to GitHub** screen just click the **Complete setup** button. ![GitHub Org Set up](github-org-welcome.png?width=50pc) 
 4. On the final page you don't have to fill anything in/answer any questions (unless your really want to) and just scroll to the bottom of the page and click the **Submit** button.
 
